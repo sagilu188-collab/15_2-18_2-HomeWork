@@ -25,7 +25,7 @@ grades.sort()
 print(grades)
 
 # הדפס את 3 הציונים הנמוכים ביותר
-print(grades[3:])
+print(grades[:3])
 
 
 
